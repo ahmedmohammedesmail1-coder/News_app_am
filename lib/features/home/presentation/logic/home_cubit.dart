@@ -42,7 +42,6 @@ class HomeCubit extends Cubit<HomeState> {
 //     debugPrint(everythingModel.status);
 //         debugPrint(everythingModel.totalResults.toString());
 //     debugPrint(everythingModel.articles?.length.toString());
-
 //  } catch (e) {
 //    debugPrint('Error$e');
 //  }
