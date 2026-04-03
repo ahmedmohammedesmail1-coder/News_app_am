@@ -24,15 +24,6 @@ It focuses on performance, clean UI, and smooth user experience.
     </tr>
   </table>
 </p>
-
-### Details Screen
-<p align="center">
-  <table>
-    <tr>
-      <td><img src="screenshots/shimmer.jpeg" width="220"/></td>
-      
-    </tr>
-  </table>
 </p>
 
 ---
