@@ -21,7 +21,7 @@ It focuses on performance, clean UI, and smooth user experience.
       <td><img src="screenshots/home.jpeg" width="220"/></td>
       <td><img src="screenshots/search.jpeg" width="220"/></td>
       <td><img src="screenshots/shimmer.jpeg" width="220"/></td>
-      <td><img src="screenshots/shimmer.jpeg" width="220"/></td>
+      <td><img src="screenshots/details.jpeg" width="220"/></td>
     </tr>
   </table>
 </p>
